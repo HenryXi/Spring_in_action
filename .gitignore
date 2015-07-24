@@ -1,0 +1,15 @@
+koss-root.ids
+*.iml
+*.ipr
+*.iws
+.idea
+*.springBeans
+*/*.log
+buildNumber.properties
+*/target/
+*.DS_Store
+*.classpath
+*.settings
+*.project
+*/koss-report-base/*.pdf
+
